@@ -1,0 +1,265 @@
+{
+  "name": "AANTV",
+  "author": "Víctor Manuel Arbiol Martínez",
+"info": "Lista en construcción. HLS Streaming ",
+  "url": "https://pastebin.com/mEEA3Udp",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wtyk11mVFuo9TjXrks6IIXqFkXg-IX4BdUEFRlmL90W40EAazQ",
+  "groups": [
+{
+      "name": "Hoy",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_wtyk11mVFuo9TjXrks6IIXqFkXg-IX4BdUEFRlmL90W40EAazQ",
+      "stations": [
+{
+                    "name": "Warlock el brujo (1989).",
+                    "image": "https://i.pinimg.com/originals/d5/51/71/d551718997e6acdd454834be5cb859d4.jpg",
+                    "url": "https://cdn.lbryplayer.xyz/api/v3/streams/paid/9convert.com---el-brujo-Warlock-1989-espa%C3%B1ol_360p/1cb6d78de20cf5e4e71c9c679d80661431d6e536/dd96b1/eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaWQiOiI5Y29udmVydC5jb20tLS1lbC1icnVqby1XYXJsb2NrLTE5ODktZXNwYcOxb2xfMzYwcC8xY2I2ZDc4ZGUyMGNmNWU0ZTcxYzljNjc5ZDgwNjYxNDMxZDZlNTM2IiwidHhpZCI6IjM3OTg3MjQ5MjFkNGM5MWVhM2U0NjdkMzUwYWU3ZDMyMjNhZWNhM2QzOTBhYzZlYzc2NGE3NDQwMmY0YjNlYWYiLCJleHAiOjE2Mzc0MjM2NDYsImlhdCI6MTYzNzEzOTU2MX0.rupl_h6EE-EIypMjnGmNbRcH_0wvKponxxMoNW8MbxTw1lvLA4Hic8QuVI-p0WcPDNTrlhpMy54FXK4xUiS0BFlHNbw_wow0aQyJAwhixwTH6AwYOepZXoevAtZBOFp3P_IBoLafaxn5yFSWb-sFmghns5mNNBaBti6epuluVy2M0skhc-37ze3eDlCUxA6EFkthcMRSOzt2wqHVP_jUBmbMig01YScKJJ8JnyKD2m7ZLH-XUFbScTi7ewfHSSAonOKnBGl0n7m5Q1vDM0P-eoVG-kGFdeiiyRmYC9PhNc5NpNFEyHQsMy2bEIf_XOa5r-gYTB89Yz3dg5y7BpzD_A",
+                    "embed": "0:0",
+                    "playInNatPlayer": "De la Tierra a la Luna es una novela «científica» y «satírica» del escritor Julio Verne, el 25 de octubre de ese mismo año",
+                    "userAgent": ""
+},
+
+{
+                    "name": "Ellos viven, nosotros dormimos",
+                    "image": "https://pics.filmaffinity.com/Charlot_bohemio_El_vagabundo_C-823646995-large.jpg",
+                    "url": "https://cdn.lbryplayer.xyz/api/v3/streams/paid/ellos-viven/4273cdce18c7c743e68596b49cd6b87e106c986b/826aeb/eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaWQiOiJlbGxvcy12aXZlbi80MjczY2RjZTE4YzdjNzQzZTY4NTk2YjQ5Y2Q2Yjg3ZTEwNmM5ODZiIiwidHhpZCI6IjA1NWMzZTIzMjQxZjJjMGUxZjM2ZmY5N2QyNjdhNzFhNDFmN2Q2NWNhYzMyYWJjYjE2ZTllNDVlZWJjNTBkZTEiLCJleHAiOjE2Mzc0NDA2NzEsImlhdCI6MTYzNzE0OTQxMX0.gXyEkI7PaObcQORN_WL71wIw7juRQxLBa-OM7R2MgE2fyvMbsCgwV-DjDEIjeELkNYcZrlp6Q7WS79wE8qcGt2dXQPOw2QxBABaExNWL0YghKF6B8G5vgPEfnLrwOWMqGx92YmkpxvmgHKoocHknB7enmhhRG2DbGl5KAaiO-tB5s_wIFR7BEwwCtYwJg94Fa3KATOSbZE2Eu5fDWYlfqAtF-vtTdMYUYXZDWC-j2IU5KbrVMcO2zce9Hy2WaYdSRr_68_ekbSbuwanMyfURTW4L4nCFbIpEMbB7dCowz5i7sbCVKkktrn4ZR_lIwtwsVxNF2az6V3JCt0akJI4gKA",
+                    "embed": "1:0",
+                    "playInNatPlayer": "Charlot bohemio 1916 Castellano. Comedia"
+ 
+},
+
+{
+                    "name": "Max Reload y los desintegradores abisales (2020).",
+                    "image": "https://pics.filmaffinity.com/max_reload_and_the_nether_blasters-848049267-large.jpg",
+                    "url": "https://cdn.lbryplayer.xyz/api/v3/streams/paid/Max-Reload/aa8f3e504194faf1a4dd2113291db70fd4c06d73/c59d8b/eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaWQiOiJNYXgtUmVsb2FkL2FhOGYzZTUwNDE5NGZhZjFhNGRkMjExMzI5MWRiNzBmZDRjMDZkNzMiLCJ0eGlkIjoiN2E1MDRmMGZkNmNjZjBlYTcyMjFkMmNhMTYzMzk5OWM1YWM3MGJmNTJjMDg3MmYxZDMzNDEyMWQ4YzI0MWVhOSIsImV4cCI6MTYzNzk5ODU0MywiaWF0IjoxNjM3MTQ5NTM4fQ.peCiD0jrg0aIH2rI5M9U_n5l6a_PIqKz-9IuZhw_WOKmG7qxnJkAAvNm_rpPKB4AbfIrKkd7ySSumAfuuwHPKC0JwDDKQhyufIJwtK5rTO_Y2oXhlcVGjKwFWxytNU5LEInmingaDdtTcUYzH8X39kdgWzhGOx8b3v-pT4hrMPQE9SUkXYGSRT9dzZSCoMNLv8EwIUhtyB1nykkXVQ7lfJqqmJ_ayf6zzC9gk95txOqtBlMjKDmcF-VEy1-7v6gY7roq3v7lUIxZwYeK59KhEGrjhcc7mEkopCY3vEMsAF74r28rgc3IwYWufiM5etkaCkMGzcX0wa7FnzV-dFO6QQ",
+                    "embed": "2:0",
+                    "playInNatPlayer": "Nosferatu, eine Symphonie des Grauens, es una película muda de 1922 dirigida por F. W. Murnau, siendo este el primer film relacionado con la historia original de Bram Stoker, Drácula.",
+                    "userAgent": ""
+},
+
+{
+                    "name": "Conan el Barbaro (Original)",
+                    "image": "https://i.ytimg.com/vi/ecIorEbbwEU/maxresdefault.jpg",
+                    "url": "https://cdn.lbryplayer.xyz/api/v3/streams/paid/Conan-el-barbaro/2f57b7733a0c14d7e2930f7a064a9af54811436e/f80876/eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaWQiOiJDb25hbi1lbC1iYXJiYXJvLzJmNTdiNzczM2EwYzE0ZDdlMjkzMGY3YTA2NGE5YWY1NDgxMTQzNmUiLCJ0eGlkIjoiNjk4NjAxMDQyM2E4MmI2NjFjYTQxMGU0NTU4ZDk5MGE0YWQ0NTI2MzE0ZTUwNzFmY2IwNWM2NzMzODRkZGMzYSIsImV4cCI6MTYzNzYwNzk3OCwiaWF0IjoxNjM3MTQ5ODk5fQ.lIUhj4lZT8JtuSHYkmoBaoV4H-Aly7q3vN-W0bVSj9PAowfQSjZxwDhkWDwc4S3PJlKJhsTF-GOrIgWdG1a3ZTijK1fbt3TfDT9FdN4nDj7IkdMyObZqyEak198gzWeEe2RuZ9QtVajQ6JmeYTS5Y-hH-ov_iSjcMcIhCnG6uwddJ7jHjjuLSkHQYEvRUnTIZEb2u2MWv705CvsSUElHocJtRGWpyNR_StTZ8KULqKeJvyWKhiWTxvmBUycUTYRuizg0rnvFB0zQiCc8wtd2sEjxR_K5nCF8Uakuq_M_jrQTfEAxxj73VXXECcnfRk09pXnOYP_GQNMXrA3YymS7IA",
+                    "embed": "3:0",
+                    "playInNatPlayer": "Metrópolis es una película muda alemana de 1927 del género de ciencia ficción dirigida por Fritz Lang y realizada por la productora UFA. Es considerada una de las grandes películas del cine expresionista alemán y de la historia del cine mundial. Fue el primer filme considerado Memoria del Mundo por la Unesco."
+ 
+},
+
+{
+                    "name": "Dagon La Secta del mar",
+                    "image": "https://pics.filmaffinity.com/dagon_la_secta_del_mar-520292629-large.jpg",
+                    "url": "https://cdn.lbryplayer.xyz/api/v3/streams/paid/y2mate.com---Dagon-La-Secta-del-Mar_360p/01157b9d9cb6d647cffe8525373b9c10ef186910/5920f8/eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaWQiOiJ5Mm1hdGUuY29tLS0tRGFnb24tTGEtU2VjdGEtZGVsLU1hcl8zNjBwLzAxMTU3YjlkOWNiNmQ2NDdjZmZlODUyNTM3M2I5YzEwZWYxODY5MTAiLCJ0eGlkIjoiNzZkODVjYjBkMWI5MDQxZmRkN2JhNjcwMWZlNmFjMzQzZGU5NTc4MGIyODBmZDkyNjg5ZGFmMmRkNjNhNDRjZSIsImV4cCI6MTYzNzQ2ODg3MCwiaWF0IjoxNjM3MTUwOTM5fQ.U9SUr7vAaSi0WDlsvhOnL2Q-farzhEblRGMb45pjaNrCwBdCVnUud2TyiJHKy9Q-lJwsR12WSDNyfzi7d0taTb9GLFWkdG3cM7bhtxbyp_xL8rrZ9ISK5I_IIdlL3nYOiOtv-KLlIgK4Tx0r7IO0CoH8_fbejHU9OZYHBaxIuBg41UUW9V8yZ52fC-ikywwj1CNED3GjGQSBctxMYkiGikw2AGKTNJ6XXanVH3Vaq9MQTS5aqQ1xsj_HxnBZ5d1c23hypgGKJC-9edF9A-zsGLOkjTU-Xms8VkEheizKsGm9H20D2uqXV44hgh5-Fmx6JQNU5ln_HXzSzC-G9QMsGA",
+                    "embed": "4:0",
+                    "playInNatPlayer": "Toda la programación del canal para el día de hoy.",
+                    "userAgent": "Actualidad Ficción"
+},
+
+{
+                    "name": "La torre oscura",
+                    "image": "https://i.ytimg.com/vi/8ChSkWba4Io/maxresdefault.jpg",
+                    "url": "https://cdn.lbryplayer.xyz/api/v4/streams/free/f41ead5a618b091c9d8f9be0d7e7b7d6-720p/9e26533460c3188dbe79bec63a8496f404b16944/e62389.mp4",
+                    "embed": "5:0",
+                    "playInNatPlayer": "La torre oscura"
+ 
+},
+
+{
+                    "name": "Comando Suicida -Marvel-",
+                    "image": "https://pics.filmaffinity.com/suicide_squad-430263618-large.jpg",
+                    "url": "https://cdn.lbryplayer.xyz/api/v4/streams/free/Ver-Pelicula-Escuadr%C3%B3n-Suicida-(2016)-Online-Completa-HD-%E2%96%BA-Peliculasflix/c006732333122092fbffda1c35ed1353b7a375e7/b2ea7e.mp4",
+                    "embed": "6:0",
+                    "playInNatPlayer": "Comando suicida",
+                    "userAgent": ""
+},
+
+{
+                    "name": "Equilibrium",
+                    "image": "https://pics.filmaffinity.com/equilibrium-522066378-large.jpg",
+                    "url": "https://cdn.lbryplayer.xyz/api/v4/streams/free/private-gabby-ram/3051759c9fd93c5b3029ac1b75668544d6ddb049/1cd3f0.mp4",
+                    "embed": "7:0",
+                    "playInNatPlayer": "Equilibrium" 
+},
+
+{
+                    "name": "ANSEL Y GRETEL CAZADORES DE BRUJAS",
+                    "image": "https://imgr.search.brave.com/TJ4YRtzSwcBkJbOpgGpAJEWNbByYj2ZB-wdYqOZxItY/fit/1200/1200/ce/1/aHR0cDovL2NpbmVy/Z2V0aWNhLmNvbS5t/eC93cC1jb250ZW50/L3VwbG9hZHMvMjAx/My8wMS9nZW1tYS1h/cnRlcnRvbi1qZXJl/bXktcmVubmVyLWhh/bnNlbC1ncmV0ZWwt/Y2F6YWRvcmVzLWJy/dWphcy5qcGc",
+                    "url": "https://cdn.lbryplayer.xyz/api/v4/streams/free/Hansel-y-Gretel-Cazadores-de-brujas-Pel%C3%ADculas-gratis/7a34b84b247cc7d8b0146d32b5af475f0939aa2d/fe33b3.mp4",
+                    "embed": "8:0",
+                    "playInNatPlayer": "Magia.",
+                    "userAgent": "Hermanos"
+},
+
+{
+                    "name": "Corto Animación",
+                    "image": "https://pics.filmaffinity.com/Agent_327_Operation_Barbershop_C-219090434-large.jpg",
+                    "url": "https://ipfs.io/ipfs/QmUDfBFRd22DkDBLzfD6WBdW8MK9JKFeACWyYX5F1hk4De",
+                    "embed": "9:0",
+                    "playInNatPlayer": "Agente 327: Operación Barbería" 
+},
+
+{
+                    "name": "Corto Animación",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Sintel_poster.jpg",
+                    "url": "https://ipfs.io/ipfs/QmeMAngtbqfvSNqvmtVbYkfAc8PhdzTiGKeWezRx2rJArn",
+                    "embed": "10:0",
+                    "playInNatPlayer": "Sintel.",
+                    "userAgent": ""
+},
+
+{
+                    "name": "Corto de Animación",
+                    "image": "https://i.ytimg.com/vi/WhWc3b3KhnY/maxresdefault.jpg",
+                    "url": "https://ipfs.io/ipfs/QmZo9iC2WTqzHXK9qtKJ92LgA7y9ojiEBvXSZCXd7GjLhb",
+                    "embed": "11:0",
+                    "playInNatPlayer": "Spring"
+ 
+},
+
+{
+                    "name": "Corto de Animación.",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/1200px-Big_buck_bunny_poster_big.jpg",
+                    "url": "https://ipfs.io/ipfs/QmWYYaE6GNwG5rjeVryuaRnZ7uTvE3YbQH1ZqkekTmMi6P",
+                    "embed": "12:0",
+                    "playInNatPlayer": "Big Buck Bunny.",
+                    "userAgent": ""
+},
+
+{
+                    "name": "Libre 2.0",
+                    "image": "https://i.ytimg.com/vi/Bo_uq_518j0/hqdefault.jpg",
+                    "url": "https://ipfs.io/ipfs/QmcjogmTEmZHhQ6AjTVAstUQabaZhHnu64PQXsoiNWQSTM",
+                    "embed": "13:0",
+                    "playInNatPlayer": "Noticias sin censura"
+ 
+},
+
+{
+                    "name": "Rashomon 1950.",
+                    "image": "https://4.bp.blogspot.com/-x2p09_WXnz0/TzPp9j0T4-I/AAAAAAAABCk/Z0UaGNZtXZI/s1600/Rashomon.jpg",
+                    "url": "https://ipfs.io/ipfs/QmVPUcL3axpD3mkBnif7qkq9iATagpFWBRjrQsMZCgVnXG",
+                    "embed": "14:0",
+                    "playInNatPlayer": "Trama de la película: Japón, siglo XII. En Kioto, bajo las puertas del derruido templo de Rashomon, se guarecen de la torrencial lluvia un leñador, un sacerdote budista y un peregrino. Los tres discuten sobre el juicio a un bandido, acusado de haber dado muerte a un señor feudal y violado a su esposa..",
+                    "userAgent": ""
+},
+
+{
+                    "name": "El mago de Oz",
+                    "image": "https://www.elsiglodetorreon.com.mx/m/i/2014/08/632467.jpeg",
+                    "url": "https://ipfs.io/ipfs/QmUGNDAGCYPbVx9FnJsg4V82XWEEFS5AtZ3HTkuKAdhUwP",
+                    "embed": "15:0",
+                    "playInNatPlayer": "El mago de Oz es una película musical fantástica estadounidense de 1939 producida por Metro-Goldwyn-Mayer, aunque ahora Time Warner posee los derechos de la película. Contó con las actuaciones de Judy Garland, Frank Morgan, Ray Bolger, Jack Haley, Bert Lahr, Billie Burke y Margaret Hamilton. En la actualidad, es considerada una película de culto, a pesar de su proyecto inicial como fábula cinematográfica infantil" 
+},
+
+{
+                    "name": "Escohotado versus Lacalle 1/2 HD.",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Antonio_Escohotado.jpg",
+                    "url": "https://ipfs.io/ipfs/QmeMAngtbqfvSNqvmtVbYkfAc8PhdzTiGKeWezRx2rJArn",
+                    "embed": "16:0",
+                    "playInNatPlayer": "Escohotado versus Lacalle en HD (Primer encuentro).",
+                    "userAgent": ""
+},
+
+{
+                    "name": "Escohotado versus Lacalle 2/2 HD.",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Antonio_Escohotado.jpg",
+                    "url": "https://ipfs.io/ipfs/QmaKD5PMz3jHixkk3kCgSBHw7h67Ka7gLi2xvviZf9wix5",
+                    "embed": "17:0",
+                    "playInNatPlayer": "Escohotado versus Lacalle 2/2 HD.",
+                    "userAgent": ""
+},
+
+{
+                    "name": "Hablemos sobre la crisis nacional del COVID-19 con Jorge Buxadé.",
+                    "image": "https://yt3.ggpht.com/a/AATXAJw6-KHhnfeOVi_8VXi1oZYAXdc83bYSyVZvGQ=s288-c-k-c0xffffffff-no-rj-mo",
+                    "url": "https://ipfs.io/ipfs/QmPc5aLkRnxxyja5N7kEfuU7By86APdbWnTqTQDsEs6ffH",
+                    "embed": "18:0",
+                    "playInNatPlayer": "Hablemos sobre la crisis nacional del COVID-19 con Jorge Buxadé.",
+                    "userAgent": ""
+},
+
+{
+                    "name": "Charla amena sobre historia.",
+                    "image": "https://images.justwatch.com/poster/11532044/s592",
+                    "url": "https://ipfs.io/ipfs/QmTsnXodynDMPnDbTkiR3HPEEdYTvm8B4RSNpfqUPkqiVE",
+                    "embed": "19:0",
+                    "playInNatPlayer": "La leyenda negra Española.",
+                    "userAgent": ""
+},
+
+{
+                    "name": "Fortunata y Jacinta. FORJA 067",
+                    "image": "https://yt3.ggpht.com/a/AATXAJw6-KHhnfeOVi_8VXi1oZYAXdc83bYSyVZvGQ=s288-c-k-c0xffffffff-no-rj-mo",
+                    "url": "https://ipfs.io/ipfs/QmWD2Q84eBEHokPoeSZEZ6G3z7XWmsV2t24h9VjtNuU62b",
+                    "embed": "20:0",
+                    "playInNatPlayer": "tumba del europeísmo y de otros -ismos. FORJA 067.",
+                    "userAgent": ""
+},
+
+{
+                    "name": "Fortunata y Jacinta",
+                    "image": "https://yt3.ggpht.com/a/AATXAJw6-KHhnfeOVi_8VXi1oZYAXdc83bYSyVZvGQ=s288-c-k-c0xffffffff-no-rj-mo",
+                    "url": "https://ipfs.io/ipfs/QmdaHLcwxAkNChEHWinxdUUKetYe8LzuTVAKr8jTD4ndsE",
+                    "embed": "21:0",
+                    "playInNatPlayer": "Cuando España Vacuno al Mundo." 
+},
+
+{
+                    "name": "La noche de los muertos vivientes 1968",
+                    "image": "https://vignette.wikia.nocookie.net/doblaje/images/3/35/Night_of_the_Living_Dead_%281968%29.png/revision/latest?cb=20180713083516&path-prefix=es",
+                    "url": "https://ipfs.io/ipfs/QmaKmeRAEtTe5CofP9AbYavcuoU3No8mgVdt2X5zyJbU9H",
+                    "embed": "22:0",
+                    "playInNatPlayer": "La noche de los muertos vivientes es una película de terror estadounidense de serie B dirigida por George A. Romero en 1968. Sus actores principales son Duane Jones, Judith O'Dea y Karl Hardman.",
+                    "userAgent": ""
+},
+
+{
+                    "name": "Plan 9 del espacio exterior",
+                    "image": "https://www.cinecutre.org/wp-content/uploads/2020/04/ed-wood-peliculas-790x491.jpg",
+                    "url": "https://ipfs.io/ipfs/QmUoizwCkz3ZukThXD4LRD4tDZVsX7TG3NrUEC7cj6cSkF",
+                    "embed": "23:0",
+                    "playInNatPlayer": "Plan 9 del espacio exterior es una película estadounidense de ciencia ficción y terror considerada por muchos críticos como una de las peores películas jamás filmadas. ​ ​ Fue dirigida en 1956 por el director Edward D. Wood Jr. con un presupuesto limitado de 60.000 dólares" 
+},
+
+{ 
+					"name": "INGRESS serie anime",
+					"image": "https://pics.filmaffinity.com/el_aviso-929002014-large.jpg",
+					"url": "https://ipfs.io/ipfs/QmS3jqUFcmRxFQe1kKAuXb6SRPTNUmHUjQYY3ii2aPuRvp",
+					"isHost": "true"
+},
+ 
+{
+                    "name": "Aladin",
+                    "image": "https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5ce8bfd823ba0_trnyoKkkvvjZvRvCMrNDtSf25nH.jpg",
+                    "url": "https://ipfs.io/ipfs/QmWYYaE6GNwG5rjeVryuaRnZ7uTvE3YbQH1ZqkekTmMi6P",
+                    "embed": "25",
+                    "playInNatPlayer": "El genio y aladin, animación"
+},
+
+{
+					"name": "Kickboxer: Retaliation ",
+					"image": "https://cdn1.plusdede.com/cdn/media/peli/7/4/0/4/1-medium.jpg?v=3",
+					"url": "https://ipfs.io/ipfs/QmaKD5PMz3jHixkk3kCgSBHw7h67Ka7gLi2xvviZf9wix5",
+					"embed": "26",
+					"playInNatPlayer": "Pelicula de luchas",
+					"userAgent": ""
+},
+
+{
+					"name": "Family Blood  ",
+					"image": "https://cdn2.plusdede.com/cdn/media/peli/7/7/8/8/4-medium.jpg?v=1",
+					"url": "https://ipfs.io/ipfs/QmaKD5PMz3jHixkk3kCgSBHw7h67Ka7gLi2xvviZf9wix5",
+					"embed": "27",
+					"playInNatPlayer": "Miedo mucho miedo",
+					"userAgent": ""     
+},
+
+{
+		            "name": "Kill Order 2018  Acción",
+        		    "image": "https://hdfull.me/tthumb/172x256/movie_a725c5913cfbb7b463aca47bda140083.jpg",
+			        "url": "https://ipfs.io/ipfs/QmaKD5PMz3jHixkk3kCgSBHw7h67Ka7gLi2xvviZf9wix5",
+          			"isHost": true
+}
+]
+}
+]
+}

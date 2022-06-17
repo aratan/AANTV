@@ -20,7 +20,7 @@ import (
 //Ejemplo:     http://pastebin.com/raw/Fw2P6GLn/
 //Crear json   http://objgen.com/json
 
-// Estructura para Json 
+// Estructura para Json
 type Peliculas struct {
 	Author string `json:"author"`
 	Groups []struct {
@@ -52,19 +52,17 @@ var azaro, horasys int
 var pd pageData
 var peliculas Peliculas
 
-
-
 // Los Tag en HTML
 type pageData struct {
 	Title       string
 	CompanyName string
-	Npeli       string 
-	Nfoto       string 
-	Nurl        string 
-	Dhora		string //nuevo
-	Texto 		string //nuevo
-	Chtml       string 
-	Lfoto       string 
+	Npeli       string
+	Nfoto       string
+	Nurl        string
+	Dhora       string //nuevo
+	Texto       string //nuevo
+	Chtml       string
+	Lfoto       string
 }
 
 //web
@@ -79,7 +77,7 @@ func root(w http.ResponseWriter, r *http.Request) {
 			return
 		}
 	} else if r.URL.Path == "/" {
-		
+
 		w.WriteHeader(200)
 		t.ExecuteTemplate(w, "index.html", pd)
 		return
@@ -103,19 +101,17 @@ func pelis(w http.ResponseWriter, r *http.Request) {
 	if p >= 29 {
 		//fmt.Println("mayor de 28")
 		c(hora())
-	}else{
+	} else {
 		//fmt.Println("menor de 29")
 		c(p)
 	}
-	
+
 	t.ExecuteTemplate(w, "index.html", pd)
 	//w.Write([]byte("ok"))
 	//limpiamos var para no rep la lista
 	chtml = ""
 	lfoto = ""
 }
-
-
 
 // esto ya no se ejecuta al inicio
 func azar() int {
@@ -127,10 +123,10 @@ func azar() int {
 	return i
 }
 
-
 func a(i int) { //API a lo bestia
 	// Datos en Json de servidor remoto
-	url := "https://pastebin.com/raw/mEEA3Udp"
+	url := "https://pastebin.com/raw/kPYfgzck"
+	//url := "https://pastebin.com/raw/mEEA3Udp"
 	// Recogemos los datos
 	res, erro := http.Get(url)
 	if erro != nil {
@@ -145,14 +141,13 @@ func a(i int) { //API a lo bestia
 	//fmt.Println(peliculas.Name)                       //[i].Type)
 
 	//fmt.Println(peliculas.Groups[0].Stations[i].Name)
-	
+
 	//Capitana Marvel (2019)
 	//fmt.Println("User Age: " + strconv.Itoa(peliculas.Peliculass[i].Age))
 	if erro != nil {
 		panic(erro.Error())
 	}
 }
-
 
 func b() {
 	var err error
@@ -173,7 +168,7 @@ func c(i int) { //lista TODO: FOR
 		video = fmt.Sprintf(peliculas.Groups[0].Stations[i].URL) /// fin añadidos
 		dhora = fmt.Sprintf(peliculas.Groups[0].Stations[i].Embed)
 		texto = fmt.Sprintf(peliculas.Groups[0].Stations[i].PlayInNatPlayer)
-	
+
 		chtml = chtml + `<div class="movie">
 						<br><video  width="50%" height="50%" controls poster="` + foto + `">
 						<source src="` + video + `" type="video/mp4">
@@ -184,7 +179,7 @@ func c(i int) { //lista TODO: FOR
 	}
 
 	lfoto = lfoto + `</a></div><!--`
-	
+
 	routeMatch, _ = regexp.Compile(`^\/(\w+)`)
 
 	pd = pageData{
@@ -196,10 +191,9 @@ func c(i int) { //lista TODO: FOR
 		peliculas.Groups[0].Stations[i].Embed,
 		peliculas.Groups[0].Stations[i].PlayInNatPlayer,
 		chtml,
-		lfoto,		
+		lfoto,
 	}
 }
-
 
 // 1. Subir ficheros /upload
 func handler(w http.ResponseWriter, r *http.Request) {
@@ -230,14 +224,15 @@ func uploader(w http.ResponseWriter, r *http.Request) {
 		fmt.Fprintf(w, "Cargado con exito "+fileinfo.Filename)
 	}
 }
-// hora 
+
+// hora
 func hora() int {
 	// añado 2020
 	t := time.Now()
 	//fecha := fmt.Sprintf("%d-%02d-%02dT%02d:%02d:%02d", t.Year(), t.Month(), t.Day(),
-	
+
 	fecha := fmt.Sprintf("%02d", t.Hour())
-	i ,_ = strconv.Atoi(fecha)
+	i, _ = strconv.Atoi(fecha)
 	//fmt.Println(i)
 	return i
 	//azaro por i
@@ -249,14 +244,13 @@ func main() {
 	a(azaro)
 	b()
 	c(azaro)
-	
+
 	c(hora())
 	//tengo que añadir el api arriba
 
 	mux := http.NewServeMux()
-	go mux.HandleFunc("/", root)          //no lo he tocado
-	go mux.HandleFunc("/pelis", pelis)    //peliculas
-	
+	go mux.HandleFunc("/", root)       //no lo he tocado
+	go mux.HandleFunc("/pelis", pelis) //peliculas
 
 	// Directorio publico contiene jsonseries.json
 	FileServer := http.FileServer(http.Dir("api"))
@@ -281,6 +275,7 @@ func main() {
 	}
 
 	log.Println("Server Active port: " + port + "\nVictor Manuel Arbiol Martinez 2020\nv1.1.0 Licencia: CC BY-NC-ND")
+	log.Println("Host Json: https://pastebin.com/raw/mEEA3Udp")
 	log.Fatal(server.ListenAndServe())
 
 }
