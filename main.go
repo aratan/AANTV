@@ -262,7 +262,7 @@ func main() {
 	port := os.Getenv("PORT")
 
 	if port == "" {
-		port = "80"
+		port = "8080"
 	}
 
 	// escuchando
@@ -275,7 +275,7 @@ func main() {
 	}
 
 	log.Println("Server Active port: " + port + "\nVictor Manuel Arbiol Martinez 2020\nv1.1.0 Licencia: CC BY-NC-ND")
-	log.Println("Host Json: https://pastebin.com/raw/mEEA3Udp")
+	log.Println("\nHost Json: https://pastebin.com/raw/kPYfgzck")
 	log.Fatal(server.ListenAndServe())
 
 }
